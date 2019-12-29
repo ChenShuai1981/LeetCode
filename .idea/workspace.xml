@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa846b63-b47f-4c12-85e4-3c8ab69efe27" name="Default" comment="" />
+    <list default="true" id="fa846b63-b47f-4c12-85e4-3c8ab69efe27" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/caselchen/example/SpiralMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/caselchen/example/lesson3/NumberSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/caselchen/example/lesson3/NumberSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/caselchen/example/question/Q147$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caselchen/example/question/Q147$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/caselchen/example/question/Q147.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/caselchen/example/question/Q147.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,29 +28,42 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
+            <state relative-caret-position="336">
               <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NumberSort.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/caselchen/example/lesson3/NumberSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="138" column="23" selection-start-line="138" selection-start-column="23" selection-end-line="138" selection-end-column="23" />
+            <state relative-caret-position="232">
+              <caret line="77" column="5" selection-end-line="148" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q147.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/caselchen/example/SpiralMatrix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#561#570#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/caselchen/example/question/Q147.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="576">
+              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -59,29 +80,8 @@
       </list>
     </option>
   </component>
-  <component name="GradleLocalSettings">
-    <option name="projectSyncType">
-      <map>
-        <entry key="$PROJECT_DIR$/../akka-spring-boot-example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../demo-akka-spring/demo-java-akka-spring-web" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../drools-poker" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../flink-cep" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../flink-cep-demos/order-timeout" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../flink-cep-demos/user-login-attack" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../flink-prometheus-example" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../kafka" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../kafka-streams" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../kafka-streams-in-action" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../robot-control-system" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../sample-spring-kafka-producer-consumer" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../spring-boot-practice/contents/20150903-join-manytomany6" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../stream-reactor" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../stream-reactor/kafka-connect-redis" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../ticker" value="PREVIEW" />
-        <entry key="$PROJECT_DIR$/../tomcat-redis-session-manager" value="PREVIEW" />
-        <entry key="$USER_HOME$/gitrepo/kafka" value="PREVIEW" />
-      </map>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -90,6 +90,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/caselchen/example/question/Q147.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/caselchen/example/lesson3/NumberSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/caselchen/example/SpiralMatrix.java" />
       </list>
     </option>
   </component>
@@ -117,9 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,22 +160,18 @@
               <item name="example" type="462c0819:PsiDirectoryNode" />
               <item name="lesson3" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-              <item name="question" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -200,9 +194,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NumberSort">
-    <configuration default="true" type="Applet" factoryName="Applet">
+  <component name="RunManager" selected="Application.SpiralMatrix">
+    <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="NumberSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.caselchen.example.lesson3.NumberSort" />
@@ -214,6 +211,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="Q147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.caselchen.example.question.Q147" />
@@ -225,54 +225,54 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.caselchen.example.SpiralMatrix" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.caselchen.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="Application.NumberSort" />
       <item itemvalue="Application.Q147" />
+      <item itemvalue="Application.SpiralMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.NumberSort" />
         <item itemvalue="Application.Q147" />
       </list>
@@ -287,6 +287,7 @@
         <entry key="$PROJECT_DIR$/../Learning-Scala-Web-Development" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../Real Time Streaming using Apache Spark Streaming _Code" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../Scala-High-Performance-Programming" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../adm" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../adnxg" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../adnxg/adnxg-dsp-agent" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../adnxg/adnxg-dsp-core" value="PREVIEW" />
@@ -305,6 +306,7 @@
         <entry key="$PROJECT_DIR$/../akkahttp-quickstart" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../akkahttp_redis" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../confluent-spark-avro" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../dsp" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../dsp-agent-frequency-cap" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../dsp-core-frequency-cap" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../essential-slick" value="PREVIEW" />
@@ -317,6 +319,7 @@
         <entry key="$PROJECT_DIR$/../flink-examples" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../hello" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../kafka-stream-sample" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../newproject/adx" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../pack-big-data-spark-streaming" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../reactive-kafka-scala-example" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../rediscala-demo" value="PREVIEW" />
@@ -324,9 +327,6 @@
         <entry key="$PROJECT_DIR$/../spark-redis-0.3.2" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../ssp-edge" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../swagger-akka-http-sample" value="PREVIEW" />
-        <entry key="$USER_HOME$/gitrepo/adm" value="PREVIEW" />
-        <entry key="$USER_HOME$/gitrepo/dsp" value="PREVIEW" />
-        <entry key="$USER_HOME$/gitrepo/newproject/adx" value="PREVIEW" />
       </map>
     </option>
   </component>
@@ -340,87 +340,101 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1576735979604</updated>
+      <workItem from="1577609726429" duration="1960000" />
     </task>
     <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1960000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Tool Output" order="7" />
-      <window_info anchor="right" id="RestServices" order="3" />
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="bottom" id="ANTLR Preview" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24963397" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.47299078" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info id="DB Browser" order="2" />
-      <window_info anchor="bottom" id="SBT Console" order="7" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32806325" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25823453" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="bottom" id="Problems" order="7" />
-      <window_info anchor="right" id="BPMNPalette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info anchor="bottom" id="DB Execution Console" order="7" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="SBT Console" order="8" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25823453" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="DB Browser" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Tool Output" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
-      <window_info anchor="right" id="BPMNPalette" order="5" />
-      <window_info anchor="bottom" id="Problems" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.32806325" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Image Layers" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="RestServices" order="9" />
-      <window_info anchor="bottom" id="ANTLR Preview" order="15" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.47299078" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Sequence" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.2578875" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.47299078" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="DB Execution Console" order="10" />
+      <window_info anchor="bottom" id="SBT Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Tool Output" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Problems" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.32784638" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="18" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="BPMNPalette" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="RestServices" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="DB Browser" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Sequence" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.2578875" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.47299078" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="DB Execution Console" order="10" />
+      <window_info anchor="bottom" id="SBT Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Tool Output" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Problems" order="15" />
+      <window_info anchor="bottom" id="Version Control" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="17" weight="0.32784638" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="18" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Maven" order="1" />
+      <window_info anchor="right" id="Commander" order="2" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="BPMNPalette" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="RestServices" order="11" />
     </layout-to-restore>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,45 +458,20 @@
           <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="13" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/caselchen/example/lesson3/NumberSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
-          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/caselchen/example/question/Q147.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
+        <state relative-caret-position="336">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/caselchen/example/question/Q147.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="25" column="23" lean-forward="true" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="576">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -491,8 +480,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/caselchen/example/lesson3/NumberSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="138" column="23" selection-start-line="138" selection-start-column="23" selection-end-line="138" selection-end-column="23" />
+        <state relative-caret-position="232">
+          <caret line="77" column="5" selection-end-line="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/caselchen/example/SpiralMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#561#570#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
